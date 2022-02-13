@@ -38,6 +38,7 @@ from search_engine_parser.core.engines.googlescholar import \
 from search_engine_parser.core.engines.stackoverflow import \
     Search as StackOverflowSearch
 from search_engine_parser.core.engines.yahoo import Search as YahooSearch
+from search_engine_parser.core.engines.yandex import Search as YandexSearch
 
 name = "search-engine-parser"  # pylint: disable=invalid-name
 __version__ = "0.6.3"
