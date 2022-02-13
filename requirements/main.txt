@@ -2,3 +2,4 @@ lxml==4.7.1
 aiohttp==3.8.1
 beautifulsoup4==4.10.0
 fake-useragent==0.1.11
+my-fake-useragent==0.2.0
